@@ -734,8 +734,9 @@
         - [x] [Risen Moon Chapter](https://genshin-impact.fandom.com/wiki/Risen_Moon_Chapter)
         - [x] [The Final Chapter](https://genshin-impact.fandom.com/wiki/The_Final_Chapter)
       - [ ] [An Unwavering Culinary Dream](https://genshin-impact.fandom.com/wiki/An_Unwavering_Culinary_Dream)
-        - [ ] [An Unwavering Culinary Dream](https://genshin-impact.fandom.com/wiki/An_Unwavering_Culinary_Dream_(Quest))
-        - [ ] [Cooking, the Flavor of Nature](https://genshin-impact.fandom.com/wiki/Cooking,_the_Flavor_of_Nature)
+        - [x] [An Unwavering Culinary Dream](https://genshin-impact.fandom.com/wiki/An_Unwavering_Culinary_Dream_(Quest))
+        - [x] [Cooking, the Flavor of Nature](https://genshin-impact.fandom.com/wiki/Cooking,_the_Flavor_of_Nature)
+        - [ ] Concurrent Quests:
           - [ ] [Cooking, a Pleasant Memory](https://genshin-impact.fandom.com/wiki/Cooking,_a_Pleasant_Memory)
           - [ ] [Cooking, the Aroma of Homecoming](https://genshin-impact.fandom.com/wiki/Cooking,_the_Aroma_of_Homecoming)
           - [ ] [Cooking, the Beauty of Sharing](https://genshin-impact.fandom.com/wiki/Cooking,_the_Beauty_of_Sharing)
