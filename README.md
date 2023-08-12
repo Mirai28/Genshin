@@ -57,7 +57,7 @@
 - [x] Act I: [Of the Land Amidst Monoliths](https://genshin-impact.fandom.com/wiki/Of_the_Land_Amidst_Monoliths "Of the Land Amidst Monoliths")
   - [x] [Rite of Descension](https://genshin-impact.fandom.com/wiki/Rite_of_Descension)
   - [x] [An Impromptu Change of Plan](https://genshin-impact.fandom.com/wiki/An_Impromptu_Change_of_Plan)
-  - [ ] Concurrent Quests:
+  - [x] Concurrent Quests:
     - [x] [Wangshu](https://genshin-impact.fandom.com/wiki/Wangshu)
     - [x] [Moulder of Mountains](https://genshin-impact.fandom.com/wiki/Moulder_of_Mountains)
     - [x] [Custodian of Clouds](https://genshin-impact.fandom.com/wiki/Custodian_of_Clouds)
