@@ -176,6 +176,22 @@
 
 
 
+## [Chapter IV](https://genshin-impact.fandom.com/wiki/Chapter_IV)**: Masquerade of the Guilty**
+
+### Fontaine
+
+- [ ] Act I: [Prelude of Blancheur and Noirceur](https://genshin-impact.fandom.com/wiki/Prelude_of_Blancheur_and_Noirceur)
+  - [ ] [Soloist's Prologue](https://genshin-impact.fandom.com/wiki/Soloist's_Prologue)
+  - [ ] [The City of Rains and Remembrance](https://genshin-impact.fandom.com/wiki/The_City_of_Rains_and_Remembrance)
+  - [ ] [Lies Cast Shadows Under Gathered Lights](https://genshin-impact.fandom.com/wiki/Lies_Cast_Shadows_Under_Gathered_Lights)
+
+- [ ] Act II: [As Light Rain Falls Without Reason](https://genshin-impact.fandom.com/wiki/As_Light_Rain_Falls_Without_Reason)
+  - [ ] [Like the Faint Moonlight of Yesteryear](https://genshin-impact.fandom.com/wiki/Like_the_Faint_Moonlight_of_Yesteryear)
+  - [ ] [The Truth, Lost With the Rain](https://genshin-impact.fandom.com/wiki/The_Truth,_Lost_With_the_Rain)
+  - [ ] [When All Return to the Waters](https://genshin-impact.fandom.com/wiki/When_All_Return_to_the_Waters)
+
+
+
 ## [Interlude Chapter](https://genshin-impact.fandom.com/wiki/Interlude_Chapter)
 
 - [x] Act I: [The Crane Returns on the Wind](https://genshin-impact.fandom.com/wiki/The_Crane_Returns_on_the_Wind)
@@ -422,6 +438,17 @@
     - [ ] [Fragmented Testimony](https://genshin-impact.fandom.com/wiki/Fragmented_Testimony "Fragmented Testimony")
     - [ ] [A Thorough Investigation](https://genshin-impact.fandom.com/wiki/A_Thorough_Investigation "A Thorough Investigation")
     - [ ] [Pride and Prejudice](https://genshin-impact.fandom.com/wiki/Pride_and_Prejudice "Pride and Prejudice")
+
+
+
+## Fontaine Characters
+
+- [ ] [Felis Fuscus Chapter](https://genshin-impact.fandom.com/wiki/Felis_Fuscus_Chapter) ([Lyney](https://genshin-impact.fandom.com/wiki/Lyney))
+  - [ ] Act I: [The Forgotten Thief](https://genshin-impact.fandom.com/wiki/The_Forgotten_Thief)
+    - [ ] [The Phantom Thief's Reappearance](https://genshin-impact.fandom.com/wiki/The_Phantom_Thief's_Reappearance)
+    - [ ] [The Magician's Secret](https://genshin-impact.fandom.com/wiki/The_Magician's_Secret)
+    - [ ] [The Truest Thing](https://genshin-impact.fandom.com/wiki/The_Truest_Thing)
+    - [ ] [The Interview](https://genshin-impact.fandom.com/wiki/The_Interview)
 
 
 
@@ -774,7 +801,7 @@
   - [x] Part IV: [In the End, the Forest Will Remember](https://genshin-impact.fandom.com/wiki/In_the_End,_the_Forest_Will_Remember)
     - [x] ["Hello," "Thank You," and the Final "Goodbye"](https://genshin-impact.fandom.com/wiki/"Hello,"_"Thank_You,"_and_the_Final_"Goodbye")
 - [ ] [Golden Slumber](https://genshin-impact.fandom.com/wiki/Golden_Slumber)
-  - [ ] [Lost in the Sands](https://genshin-impact.fandom.com/wiki/Lost_in_the_Sands)
+  - [x] [Lost in the Sands](https://genshin-impact.fandom.com/wiki/Lost_in_the_Sands)
   - [ ] [An Introduction to Indoor Archaeology](https://genshin-impact.fandom.com/wiki/An_Introduction_to_Indoor_Archaeology)
   - [ ] [The Secret of Al-Ahmar](https://genshin-impact.fandom.com/wiki/The_Secret_of_Al-Ahmar)
   - [ ] [Dreams Beneath the Searing Sand](https://genshin-impact.fandom.com/wiki/Dreams_Beneath_the_Searing_Sand)
@@ -821,95 +848,200 @@
   - [ ] [Dune-Entombed Fecundity: Part II](https://genshin-impact.fandom.com/wiki/Dune-Entombed_Fecundity:_Part_II)
   - [ ] [Dune-Entombed Fecundity: Part III](https://genshin-impact.fandom.com/wiki/Dune-Entombed_Fecundity:_Part_III)
   - [ ] [The Eternal Dream, Ever Lush](https://genshin-impact.fandom.com/wiki/The_Eternal_Dream,_Ever_Lush)
+- [ ] [The Exile](https://genshin-impact.fandom.com/wiki/The_Exile_(World_Quest_Series))
+  - [ ] [The Exile: Sprouting](https://genshin-impact.fandom.com/wiki/The_Exile:_Sprouting)
+  - [ ] [The Exile: Blooming](https://genshin-impact.fandom.com/wiki/The_Exile:_Blooming)
 - [ ] [The Gourmet Supremos](https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos)
   - [ ] [Gourmet Supremos: Within Our Duties](https://genshin-impact.fandom.com/wiki/Gourmet_Supremos:_Within_Our_Duties)
   - [ ] [The Gourmet Supremos: Cleanup](https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Cleanup)
 - [ ] ["The Falcon's Hunt"](https://genshin-impact.fandom.com/wiki/"The_Falcon's_Hunt")
-- [ ] [A Short Encounter with a Rare Bird](https://genshin-impact.fandom.com/wiki/A_Short_Encounter_with_a_Rare_Bird)
+- [x] [A Short Encounter with a Rare Bird](https://genshin-impact.fandom.com/wiki/A_Short_Encounter_with_a_Rare_Bird)
 - [ ] [Adventure Takes Courage!](https://genshin-impact.fandom.com/wiki/Adventure_Takes_Courage!_(World_Quest))
 - [ ] [Afratu's Dilemma](https://genshin-impact.fandom.com/wiki/Afratu's_Dilemma)
 - [ ] [An Artist Adrift (Part 1)](https://genshin-impact.fandom.com/wiki/An_Artist_Adrift_(Part_1))
 - [ ] [An Artist Adrift (Part 2)](https://genshin-impact.fandom.com/wiki/An_Artist_Adrift_(Part_2))
 - [ ] [An Artist Adrift (Part 3)](https://genshin-impact.fandom.com/wiki/An_Artist_Adrift_(Part_3))
 - [ ] [Another Home There May Yet Be](https://genshin-impact.fandom.com/wiki/Another_Home_There_May_Yet_Be)
-- [ ] [Aragaru's Drawing](https://genshin-impact.fandom.com/wiki/Aragaru's_Drawing)
-- [ ] [Aranaga's Memory](https://genshin-impact.fandom.com/wiki/Aranaga's_Memory)
-- [ ] [Aranakin's Old Friend](https://genshin-impact.fandom.com/wiki/Aranakin's_Old_Friend)
+- [x] [Aragaru's Drawing](https://genshin-impact.fandom.com/wiki/Aragaru's_Drawing)
+- [x] [Aranaga's Memory](https://genshin-impact.fandom.com/wiki/Aranaga's_Memory)
+- [x] [Aranakin's Old Friend](https://genshin-impact.fandom.com/wiki/Aranakin's_Old_Friend)
 - [ ] [Blooming Sands](https://genshin-impact.fandom.com/wiki/Blooming_Sands)
 - [x] [Corps of Thirty Recruitment](https://genshin-impact.fandom.com/wiki/Corps_of_Thirty_Recruitment)
-- [ ] [Cost-Effective Hook](https://genshin-impact.fandom.com/wiki/Cost-Effective_Hook)
-- [ ] [Courage is in the Heart](https://genshin-impact.fandom.com/wiki/Courage_is_in_the_Heart)
-- [ ] [Even Beasts Stumble](https://genshin-impact.fandom.com/wiki/Even_Beasts_Stumble)
-- [ ] [For a Dream I Tarry](https://genshin-impact.fandom.com/wiki/For_a_Dream_I_Tarry)
-- [ ] [Garcia's Paean: A Gift of Compatibility](https://genshin-impact.fandom.com/wiki/Garcia's_Paean:_A_Gift_of_Compatibility)
+- [ ] [Cost-Effective Hook](https://genshin-impact.fandom.com/wiki/Cost-Effective_Hook) - [COMMISSIONS REQUIRED]
+- [x] [Courage is in the Heart](https://genshin-impact.fandom.com/wiki/Courage_is_in_the_Heart)
+- [x] [Even Beasts Stumble](https://genshin-impact.fandom.com/wiki/Even_Beasts_Stumble)
+- [x] [For a Dream I Tarry](https://genshin-impact.fandom.com/wiki/For_a_Dream_I_Tarry)
+- [ ] [Garcia's Paean: A Gift of Compatibility](https://genshin-impact.fandom.com/wiki/Garcia's_Paean:_A_Gift_of_Compatibility) - [COMMISSIONS REQUIRED]
 - [ ] [Giving Flowers](https://genshin-impact.fandom.com/wiki/Giving_Flowers)
 - [ ] [Heart of Amrita](https://genshin-impact.fandom.com/wiki/Heart_of_Amrita)
 - [ ] [Join the Eremites and Embrace a Wonderful New Life!](https://genshin-impact.fandom.com/wiki/Join_the_Eremites_and_Embrace_a_Wonderful_New_Life!)
-- [ ] [Legends of the Stone Lock](https://genshin-impact.fandom.com/wiki/Legends_of_the_Stone_Lock)
+- [x] [Legends of the Stone Lock](https://genshin-impact.fandom.com/wiki/Legends_of_the_Stone_Lock)
 - [ ] [Lightcall Resonance](https://genshin-impact.fandom.com/wiki/Lightcall_Resonance)
-- [ ] [Memory's Final Chapter](https://genshin-impact.fandom.com/wiki/Memory's_Final_Chapter)
+- [x] [Memory's Final Chapter](https://genshin-impact.fandom.com/wiki/Memory's_Final_Chapter)
 - [ ] [Next Time, On King of Invokations](https://genshin-impact.fandom.com/wiki/Next_Time,_On_King_of_Invokations)
 - [x] [Purbiruni's Commandment](https://genshin-impact.fandom.com/wiki/Purbiruni's_Commandment)
 - [ ] [Recollections of a Fontainian](https://genshin-impact.fandom.com/wiki/Recollections_of_a_Fontainian)
 - [ ] [Rejoice With Me, for What Was Lost Is Now Found](https://genshin-impact.fandom.com/wiki/Rejoice_With_Me,_for_What_Was_Lost_Is_Now_Found)
 - [ ] [Search for the Lost Monument Fragments](https://genshin-impact.fandom.com/wiki/Search_for_the_Lost_Monument_Fragments)
-- [ ] [Static Views](https://genshin-impact.fandom.com/wiki/Static_Views)
-- [ ] [Static Views, Part 2](https://genshin-impact.fandom.com/wiki/Static_Views,_Part_2)
+- [x] [Static Views](https://genshin-impact.fandom.com/wiki/Static_Views)
+- [x] [Static Views, Part 2](https://genshin-impact.fandom.com/wiki/Static_Views,_Part_2)
 - [ ] [Tadhla the Falcon](https://genshin-impact.fandom.com/wiki/Tadhla_the_Falcon)
 - [ ] [The Fallen Falcon](https://genshin-impact.fandom.com/wiki/The_Fallen_Falcon)
-- [ ] [The Exile: Sprouting](https://genshin-impact.fandom.com/wiki/The_Exile:_Sprouting)
-- [ ] [The Exile: Blooming](https://genshin-impact.fandom.com/wiki/The_Exile:_Blooming)
-- [ ] [The Foolish Fatuus](https://genshin-impact.fandom.com/wiki/The_Foolish_Fatuus)
-- [ ] [The Path of Papers](https://genshin-impact.fandom.com/wiki/The_Path_of_Papers)
-- [ ] [The Price](https://genshin-impact.fandom.com/wiki/The_Price)
-- [ ] [Treasure of Wisdom: A New Plan](https://genshin-impact.fandom.com/wiki/Treasure_of_Wisdom:_A_New_Plan)
-- [ ] [Trees and Dreams](https://genshin-impact.fandom.com/wiki/Trees_and_Dreams)
-- [ ] [Until Vana is Healed](https://genshin-impact.fandom.com/wiki/Until_Vana_is_Healed)
-- [ ] [Where Are the Fierce Creatures?](https://genshin-impact.fandom.com/wiki/Where_Are_the_Fierce_Creatures%3F)
+- [x] [The Foolish Fatuus](https://genshin-impact.fandom.com/wiki/The_Foolish_Fatuus)
+- [x] [The Path of Papers](https://genshin-impact.fandom.com/wiki/The_Path_of_Papers)
+- [x] [The Price](https://genshin-impact.fandom.com/wiki/The_Price)
+- [x] [Treasure of Wisdom: A New Plan](https://genshin-impact.fandom.com/wiki/Treasure_of_Wisdom:_A_New_Plan)
+- [x] [Trees and Dreams](https://genshin-impact.fandom.com/wiki/Trees_and_Dreams)
+- [x] [Until Vana is Healed](https://genshin-impact.fandom.com/wiki/Until_Vana_is_Healed)
+- [x] [Where Are the Fierce Creatures?](https://genshin-impact.fandom.com/wiki/Where_Are_the_Fierce_Creatures%3F)
+
+
+
+## Fontaine
+
+- [ ] [Ancient Colors](https://genshin-impact.fandom.com/wiki/Ancient_Colors)
+  - [ ] Act I: [A Brush of Seafoam and Crimson](https://genshin-impact.fandom.com/wiki/A_Brush_of_Seafoam_and_Crimson)
+    - [ ] [The Illusion's Finishings](https://genshin-impact.fandom.com/wiki/The_Illusion's_Finishings)
+  - [ ] Act II: [A Gradient of Dreams and Ochre](https://genshin-impact.fandom.com/wiki/A_Gradient_of_Dreams_and_Ochre)
+    - [ ] [There Will Come Soft Rains](https://genshin-impact.fandom.com/wiki/There_Will_Come_Soft_Rains)
+  - [ ] Act III: [Blue Longing of Heart and Moon](https://genshin-impact.fandom.com/wiki/Blue_Longing_of_Heart_and_Moon)
+    - [ ] [Limner, Dreamer, and Robotic Dog](https://genshin-impact.fandom.com/wiki/Limner,_Dreamer,_and_Robotic_Dog)
+- [ ] [Ann of the Narzissenkreuz](https://genshin-impact.fandom.com/wiki/Ann_of_the_Narzissenkreuz)
+  - [ ] Act I: [The Narzissenkreuz Adventure](https://genshin-impact.fandom.com/wiki/The_Narzissenkreuz_Adventure_(Act))
+    - [ ] [The Narzissenkreuz Adventure](https://genshin-impact.fandom.com/wiki/The_Narzissenkreuz_Adventure)
+    - [ ] [The Story of "the Princess" and "the Adventure Team"](https://genshin-impact.fandom.com/wiki/The_Story_of_"the_Princess"_and_"the_Adventure_Team")
+  - [ ] Act II: [Kingdom Through the Looking-Glass](https://genshin-impact.fandom.com/wiki/Kingdom_Through_the_Looking-Glass)
+    - [ ] [Ann's Story](https://genshin-impact.fandom.com/wiki/Ann's_Story)
+  - [ ] Act III: ["If She No Longer Dreams of You..."](https://genshin-impact.fandom.com/wiki/"If_She_No_Longer_Dreams_of_You...")
+    - [ ] [Mary-Ann's Story](https://genshin-impact.fandom.com/wiki/Mary-Ann's_Story)
+- [ ] ["Hey, This Isn't Pumpkin Soup..."](https://genshin-impact.fandom.com/wiki/"Hey,_This_Isn't_Pumpkin_Soup...")
+- [ ] [A Certain Notice](https://genshin-impact.fandom.com/wiki/A_Certain_Notice)
+- [ ] [A Certain Stamp](https://genshin-impact.fandom.com/wiki/A_Certain_Stamp)
+- [ ] [A Certain Trifle](https://genshin-impact.fandom.com/wiki/A_Certain_Trifle)
+- [ ] [A Fontainian Message](https://genshin-impact.fandom.com/wiki/A_Fontainian_Message)
+- [ ] [Another Horizon of Adventure](https://genshin-impact.fandom.com/wiki/Another_Horizon_of_Adventure)
+- [ ] [Aqueous Tidemarks](https://genshin-impact.fandom.com/wiki/Aqueous_Tidemarks)
+- [ ] [Book of Esoteric Revelations](https://genshin-impact.fandom.com/wiki/Book_of_Esoteric_Revelations)
+- [ ] [Danger Lurks Everywhere in Fontaine](https://genshin-impact.fandom.com/wiki/Danger_Lurks_Everywhere_in_Fontaine)
+- [ ] [Echoes of the Ancient World](https://genshin-impact.fandom.com/wiki/Echoes_of_the_Ancient_World)
+- [ ] [Fishing Game](https://genshin-impact.fandom.com/wiki/Fishing_Game)
+- [ ] [Good Stuff, but Terrible Taste (Belleau Region)](https://genshin-impact.fandom.com/wiki/Good_Stuff,_but_Terrible_Taste_(Belleau_Region))
+- [ ] [Good Stuff, but Terrible Taste (Central Beryl Region)](https://genshin-impact.fandom.com/wiki/Good_Stuff,_but_Terrible_Taste_(Central_Beryl_Region))
+- [ ] [Good Stuff, but Terrible Taste (Court of Fontaine Region)](https://genshin-impact.fandom.com/wiki/Good_Stuff,_but_Terrible_Taste_(Court_of_Fontaine_Region))
+- [ ] [Good Stuff, but Terrible Taste (Southeast Beryl Region)](https://genshin-impact.fandom.com/wiki/Good_Stuff,_but_Terrible_Taste_(Southeast_Beryl_Region))
+- [ ] [Good Stuff, but Terrible Taste (West Beryl Region)](https://genshin-impact.fandom.com/wiki/Good_Stuff,_but_Terrible_Taste_(West_Beryl_Region))
+- [ ] [Good Stuff, but Terrible Taste - Continued](https://genshin-impact.fandom.com/wiki/Good_Stuff,_but_Terrible_Taste_-_Continued)
+- [ ] [In Expert Company? (I)](https://genshin-impact.fandom.com/wiki/In_Expert_Company%3F_(I))
+- [ ] [In Expert Company? (II)](https://genshin-impact.fandom.com/wiki/In_Expert_Company%3F_(II))
+- [ ] [Semi-Automatic Forging](https://genshin-impact.fandom.com/wiki/Semi-Automatic_Forging)
+- [ ] [Steambird Interview](https://genshin-impact.fandom.com/wiki/Steambird_Interview)
+- [ ] [Still Mouthwatering!](https://genshin-impact.fandom.com/wiki/Still_Mouthwatering!)
+- [ ] [Strange Stone Chronicle (Part 1)](https://genshin-impact.fandom.com/wiki/Strange_Stone_Chronicle_(Part_1))
+- [ ] [Strange Stone Chronicle (Part 2)](https://genshin-impact.fandom.com/wiki/Strange_Stone_Chronicle_(Part_2))
+- [ ] [Strange Stone Chronicle (Part 3)](https://genshin-impact.fandom.com/wiki/Strange_Stone_Chronicle_(Part_3))
+- [ ] [The Final Question](https://genshin-impact.fandom.com/wiki/The_Final_Question)
+- [ ] [The Fountain Flows Again](https://genshin-impact.fandom.com/wiki/The_Fountain_Flows_Again)
+- [ ] [The Lone Phantom Sail](https://genshin-impact.fandom.com/wiki/The_Lone_Phantom_Sail)
+- [ ] [The Three Primary Colors of the Solar Corona](https://genshin-impact.fandom.com/wiki/The_Three_Primary_Colors_of_the_Solar_Corona)
+- [ ] [Truly Mouthwatering!](https://genshin-impact.fandom.com/wiki/Truly_Mouthwatering!)
+- [ ] [Unfinished Story](https://genshin-impact.fandom.com/wiki/Unfinished_Story)
+- [ ] [Upon a Flowery Field of Grass](https://genshin-impact.fandom.com/wiki/Upon_a_Flowery_Field_of_Grass)
+- [ ] [Were It So Easy](https://genshin-impact.fandom.com/wiki/Were_It_So_Easy)
 
 ------
 
 # < - - - Hidden Objectives - - - >
 
-## Quest-Like
+## Mondstadt
 
-### Mondstadt
+#### 	Quest-Like
 
 - [x] [Dragonspine's Glacial Secret](https://genshin-impact.fandom.com/wiki/Dragonspine's_Glacial_Secret)
 - [x] [Dragonspine's Last Trio](https://genshin-impact.fandom.com/wiki/Dragonspine's_Last_Trio)
 - [x] [Ragged Records](https://genshin-impact.fandom.com/wiki/Ragged_Records)
 
+#### 	Unordered
+
+- [x] [Cryptic Message in Dragonspine](https://genshin-impact.fandom.com/wiki/Cryptic_Message_in_Dragonspine)
+- [x] [The Foxes' Affection](https://genshin-impact.fandom.com/wiki/The_Foxes'_Affection)
 
 
-### Liyue
 
+## Liyue
+
+#### 	Quest-Like
+
+- [x] [A Disciple's Unanswered Questions](https://genshin-impact.fandom.com/wiki/A_Disciple's_Unanswered_Questions)
+- [x] [A Disciple's Unrelented Mission](https://genshin-impact.fandom.com/wiki/A_Disciple's_Unrelented_Mission)
 - [x] [Muning's Never-Ending Needs](https://genshin-impact.fandom.com/wiki/Muning's_Never-Ending_Needs)
 
+#### 	Unordered
+
+- [x] [Hidden in Nameless Treasures](https://genshin-impact.fandom.com/wiki/Hidden_in_Nameless_Treasures)
+- [x] [Tell a Tale for Taliesin](https://genshin-impact.fandom.com/wiki/Tell_a_Tale_for_Taliesin)
+
+### The Chasm: Underground Mines
+
+#### 	Unordered
+
+- [x] [Fatui Action Logs](https://genshin-impact.fandom.com/wiki/Fatui_Action_Logs)
+- [x] [Find The Chasm Mining Records](https://genshin-impact.fandom.com/wiki/Find_The_Chasm_Mining_Records)
+- [x] [Locked Gate in the Nameless Ruins](https://genshin-impact.fandom.com/wiki/Locked_Gate_in_the_Nameless_Ruins)
+- [x] [Lumenspar in the Den of Thieves](https://genshin-impact.fandom.com/wiki/Lumenspar_in_the_Den_of_Thieves)
+- [x] [Secret Messages in The Chasm](https://genshin-impact.fandom.com/wiki/Secret_Messages_in_The_Chasm)
+- [x] [Seed from the Valley of Life](https://genshin-impact.fandom.com/wiki/Seed_from_the_Valley_of_Life)
 
 
-### Inazuma
+
+## Inazuma
+
+#### 	Quest-Like
 
 - [x] [Gendou Ringo's Strange Fortune Slips](https://genshin-impact.fandom.com/wiki/Gendou_Ringo's_Strange_Fortune_Slips)
 - [x] [Iwakura Art's Downfall](https://genshin-impact.fandom.com/wiki/Iwakura_Art's_Downfall)
 - [x] [Searching for Saimon Jirou](https://genshin-impact.fandom.com/wiki/Searching_for_Saimon_Jirou)
 
-#### Kannazuka
+### Kannazuka
+
+#### 	Quest-Like
 
 - [x] [Hanayama Kaoru's Flowery Plan](https://genshin-impact.fandom.com/wiki/Hanayama_Kaoru's_Flowery_Plan)
 
-#### Yashiori Island
+### Yashiori Island
+
+#### 	Quest-Like
 
 - [x] [Chouji's Travels](https://genshin-impact.fandom.com/wiki/Chouji's_Travels)
 - [x] [Tatarigami Investigation Expedition](https://genshin-impact.fandom.com/wiki/Tatarigami_Investigation_Expedition)
 - [x] [Washizu's Prayers](https://genshin-impact.fandom.com/wiki/Washizu's_Prayers)
 - [x] [Yasumoto's Last Notes](https://genshin-impact.fandom.com/wiki/Yasumoto's_Last_Notes)
 
-#### Watatsumi Island
+#### 	Unordered
+
+- [x] [Pay Your Respects](https://genshin-impact.fandom.com/wiki/Pay_Your_Respects)
+- [x] [Put Them To Rest](https://genshin-impact.fandom.com/wiki/Put_Them_To_Rest)
+- [x] [Shrines of Yashiori Island](https://genshin-impact.fandom.com/wiki/Shrines_of_Yashiori_Island)
+
+### Watatsumi Island
+
+#### 	Quest-Like
 
 - [x] [Komaki's Spiritherb Fortune](https://genshin-impact.fandom.com/wiki/Komaki's_Spiritherb_Fortune)
 - [x] [Rinzou's Treasure](https://genshin-impact.fandom.com/wiki/Rinzou's_Treasure)
 
-#### Tsurumi Island
+#### 	Unordered
+
+- [x] [Researcher's Notes](https://genshin-impact.fandom.com/wiki/Researcher's_Notes)
+
+### Seirai Island
+
+#### 	Unordered
+
+- [x] [The Cat's Affection](https://genshin-impact.fandom.com/wiki/The_Cat's_Affection)
+
+### Tsurumi Island
+
+#### 	Quest-Like
 
 - [x] ["Boatman"'s Task](https://genshin-impact.fandom.com/wiki/"Boatman"'s_Task)
 - [x] [A Gift To Shitoki, Wrapped In Conches](https://genshin-impact.fandom.com/wiki/A_Gift_To_Shitoki,_Wrapped_In_Conches)
@@ -921,75 +1053,20 @@
 - [x] [Rero's Joke](https://genshin-impact.fandom.com/wiki/Rero's_Joke)
 - [x] [Una's Longing](https://genshin-impact.fandom.com/wiki/Una's_Longing)
 
-#### Enkanomiya
-
-- [x] [Akashi's Archery Challenge](https://genshin-impact.fandom.com/wiki/Akashi's_Archery_Challenge)
-- [x] [Selling the Dragonbone Orb](https://genshin-impact.fandom.com/wiki/Selling_the_Dragonbone_Orb)
-
-
-
-### Sumeru
-
-- [ ] [Buried Chests in Ashavan Realm](https://genshin-impact.fandom.com/wiki/Buried_Chests_in_Ashavan_Realm)
-- [ ] [Drusus's Riddles](https://genshin-impact.fandom.com/wiki/Drusus's_Riddles)
-- [ ] [Golden Life, From Yesteryear Awoken](https://genshin-impact.fandom.com/wiki/Golden_Life,_From_Yesteryear_Awoken)
-- [ ] [Journey For Tri-Lakshana's Starry Treasure](https://genshin-impact.fandom.com/wiki/Journey_For_Tri-Lakshana's_Starry_Treasure)
-- [ ] [Khayyam's Final Words](https://genshin-impact.fandom.com/wiki/Khayyam's_Final_Words)
-- [ ] [Marana's Last Struggle](https://genshin-impact.fandom.com/wiki/Marana's_Last_Struggle)
-- [ ] [Oracle Parchment, for the End of Death](https://genshin-impact.fandom.com/wiki/Oracle_Parchment,_for_the_End_of_Death)
-- [x] [The Bad Guy in Vimara Village](https://genshin-impact.fandom.com/wiki/The_Bad_Guy_in_Vimara_Village)
-- [ ] [The Flowing Spring of Life](https://genshin-impact.fandom.com/wiki/The_Flowing_Spring_of_Life)
-
-
-
-## Unordered
-
-### Mondstadt
-
-- [x] [Cryptic Message in Dragonspine](https://genshin-impact.fandom.com/wiki/Cryptic_Message_in_Dragonspine)
-- [x] [The Foxes' Affection](https://genshin-impact.fandom.com/wiki/The_Foxes'_Affection)
-
-
-
-### Liyue
-
-- [x] [Hidden in Nameless Treasures](https://genshin-impact.fandom.com/wiki/Hidden_in_Nameless_Treasures)
-- [x] [Tell a Tale for Taliesin](https://genshin-impact.fandom.com/wiki/Tell_a_Tale_for_Taliesin)
-
-#### The Chasm: Underground Mines
-
-- [x] [Fatui Action Logs](https://genshin-impact.fandom.com/wiki/Fatui_Action_Logs)
-- [x] [Find The Chasm Mining Records](https://genshin-impact.fandom.com/wiki/Find_The_Chasm_Mining_Records)
-- [x] [Locked Gate in the Nameless Ruins](https://genshin-impact.fandom.com/wiki/Locked_Gate_in_the_Nameless_Ruins)
-- [x] [Lumenspar in the Den of Thieves](https://genshin-impact.fandom.com/wiki/Lumenspar_in_the_Den_of_Thieves)
-- [x] [Secret Messages in The Chasm](https://genshin-impact.fandom.com/wiki/Secret_Messages_in_The_Chasm)
-- [x] [Seed from the Valley of Life](https://genshin-impact.fandom.com/wiki/Seed_from_the_Valley_of_Life)
-
-
-
-### Inazuma
-
-#### Yashiori Island
-
-- [x] [Pay Your Respects](https://genshin-impact.fandom.com/wiki/Pay_Your_Respects)
-- [x] [Put Them To Rest](https://genshin-impact.fandom.com/wiki/Put_Them_To_Rest)
-- [x] [Shrines of Yashiori Island](https://genshin-impact.fandom.com/wiki/Shrines_of_Yashiori_Island)
-
-#### Watatsumi Island
-
-- [x] [Researcher's Notes](https://genshin-impact.fandom.com/wiki/Researcher's_Notes)
-
-#### Seirai Island
-
-- [x] [The Cat's Affection](https://genshin-impact.fandom.com/wiki/The_Cat's_Affection)
-
-#### Tsurumi Island
+#### 	Unordered
 
 - [x] [Ishine Script Deciphering](https://genshin-impact.fandom.com/wiki/Ishine_Script_Deciphering)
 - [x] [Opening Old Memories](https://genshin-impact.fandom.com/wiki/Opening_Old_Memories)
 - [x] [Tsurumi's Mountain Murals](https://genshin-impact.fandom.com/wiki/Tsurumi's_Mountain_Murals)
 
-#### Enkanomiya
+### Enkanomiya
+
+#### 	Quest-Like
+
+- [x] [Akashi's Archery Challenge](https://genshin-impact.fandom.com/wiki/Akashi's_Archery_Challenge)
+- [x] [Selling the Dragonbone Orb](https://genshin-impact.fandom.com/wiki/Selling_the_Dragonbone_Orb)
+
+#### 	Unordered
 
 - [x] [Adonis' Abandoned Safehouse](https://genshin-impact.fandom.com/wiki/Adonis'_Abandoned_Safehouse)
 - [x] [Reading Kabayama's Lanterns](https://genshin-impact.fandom.com/wiki/Reading_Kabayama's_Lanterns)
@@ -997,19 +1074,44 @@
 
 
 
-### Sumeru
+## Sumeru
+
+#### 	Quest-Like
+
+- [x] [Buried Chests in Ashavan Realm](https://genshin-impact.fandom.com/wiki/Buried_Chests_in_Ashavan_Realm)
+- [x] [Drusus's Riddles](https://genshin-impact.fandom.com/wiki/Drusus's_Riddles)
+- [ ] [Golden Life, From Yesteryear Awoken](https://genshin-impact.fandom.com/wiki/Golden_Life,_From_Yesteryear_Awoken)
+- [x] [Journey For Tri-Lakshana's Starry Treasure](https://genshin-impact.fandom.com/wiki/Journey_For_Tri-Lakshana's_Starry_Treasure)
+- [x] [Khayyam's Final Words](https://genshin-impact.fandom.com/wiki/Khayyam's_Final_Words)
+- [x] [Marana's Last Struggle](https://genshin-impact.fandom.com/wiki/Marana's_Last_Struggle)
+- [x] [Oracle Parchment, for the End of Death](https://genshin-impact.fandom.com/wiki/Oracle_Parchment,_for_the_End_of_Death)
+- [x] [The Bad Guy in Vimara Village](https://genshin-impact.fandom.com/wiki/The_Bad_Guy_in_Vimara_Village)
+- [ ] [The Flowing Spring of Life](https://genshin-impact.fandom.com/wiki/The_Flowing_Spring_of_Life)
+
+#### 	Unordered
 
 - [ ] [Abbas' Escape](https://genshin-impact.fandom.com/wiki/Abbas'_Escape)
 - [ ] [Chessboard of Safhe Shatranj](https://genshin-impact.fandom.com/wiki/Chessboard_of_Safhe_Shatranj)
-- [ ] [Cryptic Message in Sumeru](https://genshin-impact.fandom.com/wiki/Cryptic_Message_in_Sumeru)
+- [x] [Cryptic Message in Sumeru](https://genshin-impact.fandom.com/wiki/Cryptic_Message_in_Sumeru)
 - [ ] [Eleazar Hospital Notes](https://genshin-impact.fandom.com/wiki/Eleazar_Hospital_Notes)
-- [ ] [Even Beasts Get Homesick](https://genshin-impact.fandom.com/wiki/Even_Beasts_Get_Homesick)
+- [x] [Even Beasts Get Homesick](https://genshin-impact.fandom.com/wiki/Even_Beasts_Get_Homesick)
 - [x] [For a Rose's Wellbeing](https://genshin-impact.fandom.com/wiki/For_a_Rose's_Wellbeing)
-- [ ] [Fourth's a Deathmatch](https://genshin-impact.fandom.com/wiki/Fourth's_a_Deathmatch)
+- [x] [Fourth's a Deathmatch](https://genshin-impact.fandom.com/wiki/Fourth's_a_Deathmatch)
 - [ ] [Memories of Pairidaeza](https://genshin-impact.fandom.com/wiki/Memories_of_Pairidaeza)
 - [ ] [The Dead End and the Glinting Architects](https://genshin-impact.fandom.com/wiki/The_Dead_End_and_the_Glinting_Architects)
 - [ ] [The Murals of Gurabad](https://genshin-impact.fandom.com/wiki/The_Murals_of_Gurabad)
-- [ ] [The Viparyas of Vanarana](https://genshin-impact.fandom.com/wiki/The_Viparyas_of_Vanarana)
+- [x] [The Viparyas of Vanarana](https://genshin-impact.fandom.com/wiki/The_Viparyas_of_Vanarana)
+
+
+
+## Fontaine
+
+#### Quest-Like
+
+- [ ] [Delaroche's Bait](https://genshin-impact.fandom.com/wiki/Delaroche's_Bait)
+- [ ] [Poissonous Cuisine](https://genshin-impact.fandom.com/wiki/Poissonous_Cuisine)
+- [ ] [Room Temperature, Please](https://genshin-impact.fandom.com/wiki/Room_Temperature,_Please)
+- [ ] [The Blubberbeast's Affection](https://genshin-impact.fandom.com/wiki/The_Blubberbeast's_Affection)
 
 
 
