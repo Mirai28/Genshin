@@ -1,4 +1,4 @@
-# ALL GENSHIN QUESTS
+# ALL GENSHIN QUESTS (As of Version 4.2)
 
 ------
 
@@ -6,7 +6,7 @@
 
 ## [Prologue](https://genshin-impact.fandom.com/wiki/Prologue "Prologue"): The Outlander Who Caught the Wind
 
-### Mondstadt
+#### Mondstadt
 
 - [ ] Act I: [The Outlander Who Caught the Wind](https://genshin-impact.fandom.com/wiki/The_Outlander_Who_Caught_the_Wind "The Outlander Who Caught the Wind")
   - [ ] [Bird's Eye View](https://genshin-impact.fandom.com/wiki/Bird%27s_Eye_View "Bird's Eye View")
@@ -189,6 +189,27 @@
   - [ ] [Like the Faint Moonlight of Yesteryear](https://genshin-impact.fandom.com/wiki/Like_the_Faint_Moonlight_of_Yesteryear)
   - [ ] [The Truth, Lost With the Rain](https://genshin-impact.fandom.com/wiki/The_Truth,_Lost_With_the_Rain)
   - [ ] [When All Return to the Waters](https://genshin-impact.fandom.com/wiki/When_All_Return_to_the_Waters)
+- [ ] Act III: [To the Stars Shining in the Depths](https://genshin-impact.fandom.com/wiki/To_the_Stars_Shining_in_the_Depths)
+  - [ ] [A Tea Party Most Thorny](https://genshin-impact.fandom.com/wiki/A_Tea_Party_Most_Thorny)
+  - [ ] [Fortress of Meropide](https://genshin-impact.fandom.com/wiki/Fortress_of_Meropide_(Quest))
+  - [ ] [The Proscribed, Hidden in Plain Sight](https://genshin-impact.fandom.com/wiki/The_Proscribed,_Hidden_in_Plain_Sight)
+  - [ ] [Lost in Deep Seas](https://genshin-impact.fandom.com/wiki/Lost_in_Deep_Seas)
+
+- [ ] Act IV: [Cataclysm's Quickening](https://genshin-impact.fandom.com/wiki/Cataclysm's_Quickening)
+  - [ ] [Into the Deepwater Murk](https://genshin-impact.fandom.com/wiki/Into_the_Deepwater_Murk)
+  - [ ] [The Truth Shrouded in Shadow](https://genshin-impact.fandom.com/wiki/The_Truth_Shrouded_in_Shadow)
+  - [ ] [Secret Keepers and Forbidden Zones](https://genshin-impact.fandom.com/wiki/Secret_Keepers_and_Forbidden_Zones)
+  - [ ] [Calamitous Tread](https://genshin-impact.fandom.com/wiki/Calamitous_Tread)
+  - [ ] [A Moment's Respite](https://genshin-impact.fandom.com/wiki/A_Moment's_Respite)
+
+- [ ] Act V: [Masquerade of the Guilty](https://genshin-impact.fandom.com/wiki/Masquerade_of_the_Guilty)
+  - [ ] [Deluge of Wrathful Waters](https://genshin-impact.fandom.com/wiki/Deluge_of_Wrathful_Waters)
+  - [ ] [Meeting Is Also Parting](https://genshin-impact.fandom.com/wiki/Meeting_Is_Also_Parting)
+  - [ ] [Hunters, Prophets](https://genshin-impact.fandom.com/wiki/Hunters,_Prophets)
+  - [ ] [Apocalypse](https://genshin-impact.fandom.com/wiki/Apocalypse)
+  - [ ] [The Opera of Noirceur and Blancheur](https://genshin-impact.fandom.com/wiki/The_Opera_of_Noirceur_and_Blancheur)
+  - [ ] [Finale](https://genshin-impact.fandom.com/wiki/Finale)
+
 
 
 
@@ -443,6 +464,23 @@
 
 ## Fontaine Characters
 
+- [ ] [Animula Choragi Chapter](https://genshin-impact.fandom.com/wiki/Animula_Choragi_Chapter) ([Furina](https://genshin-impact.fandom.com/wiki/Furina))
+  - [ ] Act I: ["The Little Oceanid"](https://genshin-impact.fandom.com/wiki/"The_Little_Oceanid")
+    - [ ] [To Yesterday](https://genshin-impact.fandom.com/wiki/To_Yesterday)
+    - [ ] [Whither Should the Water Flow?](https://genshin-impact.fandom.com/wiki/Whither_Should_the_Water_Flow%3F)
+    - [ ] [This Life, Just Like a Light Trickle of Song](https://genshin-impact.fandom.com/wiki/This_Life,_Just_Like_a_Light_Trickle_of_Song)
+
+- [ ] [Cerberus Chapter](https://genshin-impact.fandom.com/wiki/Cerberus_Chapter) ([Wriothesley](https://genshin-impact.fandom.com/wiki/Wriothesley))
+  - [ ] Act I: [Reborn in the Land of Grievances](https://genshin-impact.fandom.com/wiki/Reborn_in_the_Land_of_Grievances)
+    - [ ] [An Opportunity for Rebirth](https://genshin-impact.fandom.com/wiki/An_Opportunity_for_Rebirth)
+    - [ ] [The Proud "Beret Society"](https://genshin-impact.fandom.com/wiki/The_Proud_"Beret_Society")
+    - [ ] [It's What He Deserves](https://genshin-impact.fandom.com/wiki/It's_What_He_Deserves)
+
+- [ ] [Diluvies Chapter](https://genshin-impact.fandom.com/wiki/Diluvies_Chapter) ([Neuvillette](https://genshin-impact.fandom.com/wiki/Neuvillette))
+  - [ ] Act I: [The Remains of the Past Day](https://genshin-impact.fandom.com/wiki/The_Remains_of_the_Past_Day)
+    - [ ] [A Familiar Threat](https://genshin-impact.fandom.com/wiki/A_Familiar_Threat)
+    - [ ] [Ever-Surging Memories](https://genshin-impact.fandom.com/wiki/Ever-Surging_Memories)
+    - [ ] [In a New Light](https://genshin-impact.fandom.com/wiki/In_a_New_Light)
 - [ ] [Felis Fuscus Chapter](https://genshin-impact.fandom.com/wiki/Felis_Fuscus_Chapter) ([Lyney](https://genshin-impact.fandom.com/wiki/Lyney))
   - [ ] Act I: [The Forgotten Thief](https://genshin-impact.fandom.com/wiki/The_Forgotten_Thief)
     - [ ] [The Phantom Thief's Reappearance](https://genshin-impact.fandom.com/wiki/The_Phantom_Thief's_Reappearance)
@@ -479,7 +517,6 @@
 - [ ] [Ascension Challenge II](https://genshin-impact.fandom.com/wiki/Ascension_Challenge_II)
 - [ ] [Ascension Challenge III](https://genshin-impact.fandom.com/wiki/Ascension_Challenge_III)
 - [ ] [Ascension Challenge IV](https://genshin-impact.fandom.com/wiki/Ascension_Challenge_IV)
-- [ ] [Bough Keeper: Dainsleif](https://genshin-impact.fandom.com/wiki/Bough_Keeper:_Dainsleif)
 - [ ] [Break the Sword Cemetery Seal](https://genshin-impact.fandom.com/wiki/Break_the_Sword_Cemetery_Seal)
 - [ ] [Busy Adventurers' Guild](https://genshin-impact.fandom.com/wiki/Busy_Adventurers'_Guild)
 - [ ] [Cleanup At Dawn](https://genshin-impact.fandom.com/wiki/Cleanup_At_Dawn)
@@ -659,7 +696,7 @@
   - [ ] [The Gourmet Supremos: The Seashore Strider](https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Seashore_Strider)
   - [ ] [The Gourmet Supremos: The Deep Divers](https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Deep_Divers)
   - [ ] [The Gourmet Supremos: On the Road](https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_On_the_Road)
-  - [ ] [The Gourmet Supremos: The Importance of Eating Well](https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Importance_of_Eating_Well)
+  - [ ] [The Gourmet Supremos: The Importance of Eating Well](https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Importance_of_Eating_Well) - [COMMISSIONS REQUIRED]
 - [ ] [The Moon-Bathed Deep](https://genshin-impact.fandom.com/wiki/The_Moon-Bathed_Deep)
   - [ ] [The Moon-Bathed Deep](https://genshin-impact.fandom.com/wiki/The_Moon-Bathed_Deep_(Quest))
   - [ ] ["Eye of Watatsumi"](https://genshin-impact.fandom.com/wiki/"Eye_of_Watatsumi")
@@ -677,7 +714,7 @@
   - [ ] [The Sea of Fog and the Rite of the Trees](https://genshin-impact.fandom.com/wiki/The_Sea_of_Fog_and_the_Rite_of_the_Trees)
   - [ ] [The Sun-Wheel and Mt. Kanna](https://genshin-impact.fandom.com/wiki/The_Sun-Wheel_and_Mt._Kanna)
 - [ ] ["The Seventh Samurai"](https://genshin-impact.fandom.com/wiki/"The_Seventh_Samurai")
-- [ ] [Battle of Revenge](https://genshin-impact.fandom.com/wiki/Battle_of_Revenge)
+- [ ] [Battle of Revenge](https://genshin-impact.fandom.com/wiki/Battle_of_Revenge) - [COMMISSIONS REQUIRED]
 - [ ] [Clean House](https://genshin-impact.fandom.com/wiki/Clean_House)
 - [ ] [Divine Plant of the Depths](https://genshin-impact.fandom.com/wiki/Divine_Plant_of_the_Depths)
 - [ ] [Dreams of Sword Art](https://genshin-impact.fandom.com/wiki/Dreams_of_Sword_Art)
@@ -689,7 +726,7 @@
 - [ ] [In Another Land](https://genshin-impact.fandom.com/wiki/In_Another_Land)
 - [ ] [International Travel Log](https://genshin-impact.fandom.com/wiki/International_Travel_Log)
 - [ ] [Katheryne in Inazuma](https://genshin-impact.fandom.com/wiki/Katheryne_in_Inazuma)
-- [ ] [O Archon, Have I Done Right?](https://genshin-impact.fandom.com/wiki/O_Archon,_Have_I_Done_Right%3F)
+- [ ] [O Archon, Have I Done Right?](https://genshin-impact.fandom.com/wiki/O_Archon,_Have_I_Done_Right%3F) - [COMMISSIONS REQUIRED]
 - [ ] [Omni-Ubiquity Net](https://genshin-impact.fandom.com/wiki/Omni-Ubiquity_Net_(Quest))
 - [ ] [Pizza From Another Land](https://genshin-impact.fandom.com/wiki/Pizza_From_Another_Land)
 - [ ] [Relics of Seirai](https://genshin-impact.fandom.com/wiki/Relics_of_Seirai)
@@ -697,12 +734,12 @@
 - [ ] [Sakura Arborism](https://genshin-impact.fandom.com/wiki/Sakura_Arborism)
 - [ ] [Sinister Instruction](https://genshin-impact.fandom.com/wiki/Sinister_Instruction)
 - [ ] [Solitary Sea-Beast](https://genshin-impact.fandom.com/wiki/Solitary_Sea-Beast)
-- [ ] [Storytelling Method](https://genshin-impact.fandom.com/wiki/Storytelling_Method)
+- [ ] [Storytelling Method](https://genshin-impact.fandom.com/wiki/Storytelling_Method) - [COMMISSIONS REQUIRED]
 - [ ] [Temaria Game](https://genshin-impact.fandom.com/wiki/Temaria_Game)
 - [ ] [The Art of Horticulture](https://genshin-impact.fandom.com/wiki/The_Art_of_Horticulture)
 - [ ] [The Commission's Commission](https://genshin-impact.fandom.com/wiki/The_Commission's_Commission)
 - [ ] [The Farmer's Treasure](https://genshin-impact.fandom.com/wiki/The_Farmer's_Treasure)
-- [ ] [The Narukami Trail](https://genshin-impact.fandom.com/wiki/The_Narukami_Trail)
+- [ ] [The Narukami Trail](https://genshin-impact.fandom.com/wiki/The_Narukami_Trail) - [COMMISSIONS REQUIRED]
 - [ ] [The Ritou Road](https://genshin-impact.fandom.com/wiki/The_Ritou_Road)
 - [ ] [The Saga of Mr. Forgetful](https://genshin-impact.fandom.com/wiki/The_Saga_of_Mr._Forgetful)
 - [ ] [Treatment on the Island](https://genshin-impact.fandom.com/wiki/Treatment_on_the_Island)
@@ -831,16 +868,17 @@
     - [ ] [Desert's Remembrance](https://genshin-impact.fandom.com/wiki/Desert's_Remembrance)
 - [ ] [Pale Fire](https://genshin-impact.fandom.com/wiki/Pale_Fire)
   - [ ] [Pale Fire](https://genshin-impact.fandom.com/wiki/Pale_Fire_(Quest))
-  - [ ] [Awaken the Residual Pari in the Fravashi Trees (Asipattravana Swamp)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Asipattravana_Swamp))
-  - [ ] [Awaken the Residual Pari in the Fravashi Trees (East Tunigi Hollow)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(East_Tunigi_Hollow))
-  - [ ] [Awaken the Residual Pari in the Fravashi Trees (Hangeh Afrasiyab)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Hangeh_Afrasiyab))
-  - [ ] [Awaken the Residual Pari in the Fravashi Trees (Madinat al-Nuhas)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Madinat_al-Nuhas))
-  - [ ] [Awaken the Residual Pari in the Fravashi Trees (North Tunigi Hollow 1)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_1))
-  - [ ] [Awaken the Residual Pari in the Fravashi Trees (North Tunigi Hollow 2)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_2))
-  - [ ] [Awaken the Residual Pari in the Fravashi Trees (North Tunigi Hollow 3)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_3))
-  - [ ] [Awaken the Residual Pari in the Fravashi Trees (Northeast Tunigi Hollow)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Northeast_Tunigi_Hollow))
-  - [ ] [Awaken the Residual Pari in the Fravashi Trees (West Temir Mountains 1)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(West_Temir_Mountains_1))
-  - [ ] [Awaken the Residual Pari in the Fravashi Trees (West Temir Mountains 2)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(West_Temir_Mountains_2))
+  - [ ] Concurrent Quests:
+    - [ ] [Awaken the Residual Pari in the Fravashi Trees (Asipattravana Swamp)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Asipattravana_Swamp))
+    - [ ] [Awaken the Residual Pari in the Fravashi Trees (East Tunigi Hollow)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(East_Tunigi_Hollow))
+    - [ ] [Awaken the Residual Pari in the Fravashi Trees (Hangeh Afrasiyab)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Hangeh_Afrasiyab))
+    - [ ] [Awaken the Residual Pari in the Fravashi Trees (Madinat al-Nuhas)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Madinat_al-Nuhas))
+    - [ ] [Awaken the Residual Pari in the Fravashi Trees (North Tunigi Hollow 1)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_1))
+    - [ ] [Awaken the Residual Pari in the Fravashi Trees (North Tunigi Hollow 2)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_2))
+    - [ ] [Awaken the Residual Pari in the Fravashi Trees (North Tunigi Hollow 3)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_3))
+    - [ ] [Awaken the Residual Pari in the Fravashi Trees (Northeast Tunigi Hollow)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Northeast_Tunigi_Hollow))
+    - [ ] [Awaken the Residual Pari in the Fravashi Trees (West Temir Mountains 1)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(West_Temir_Mountains_1))
+    - [ ] [Awaken the Residual Pari in the Fravashi Trees (West Temir Mountains 2)](https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(West_Temir_Mountains_2))
 - [ ] [The Dirge of Bilqis](https://genshin-impact.fandom.com/wiki/The_Dirge_of_Bilqis)
   - [ ] [Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars](https://genshin-impact.fandom.com/wiki/Wisdom_Has_Built_Her_House,_She_Has_Hewn_Out_Her_Seven_Pillars)
   - [ ] [The Temple Where Sand Flows Like Tears](https://genshin-impact.fandom.com/wiki/The_Temple_Where_Sand_Flows_Like_Tears)
@@ -867,11 +905,11 @@
 - [ ] [Aranakin's Old Friend](https://genshin-impact.fandom.com/wiki/Aranakin's_Old_Friend)
 - [ ] [Blooming Sands](https://genshin-impact.fandom.com/wiki/Blooming_Sands)
 - [ ] [Corps of Thirty Recruitment](https://genshin-impact.fandom.com/wiki/Corps_of_Thirty_Recruitment)
-- [ ] [Cost-Effective Hook](https://genshin-impact.fandom.com/wiki/Cost-Effective_Hook)
+- [ ] [Cost-Effective Hook](https://genshin-impact.fandom.com/wiki/Cost-Effective_Hook) - [COMMISSIONS REQUIRED]
 - [ ] [Courage is in the Heart](https://genshin-impact.fandom.com/wiki/Courage_is_in_the_Heart)
 - [ ] [Even Beasts Stumble](https://genshin-impact.fandom.com/wiki/Even_Beasts_Stumble)
 - [ ] [For a Dream I Tarry](https://genshin-impact.fandom.com/wiki/For_a_Dream_I_Tarry)
-- [ ] [Garcia's Paean: A Gift of Compatibility](https://genshin-impact.fandom.com/wiki/Garcia's_Paean:_A_Gift_of_Compatibility)
+- [ ] [Garcia's Paean: A Gift of Compatibility](https://genshin-impact.fandom.com/wiki/Garcia's_Paean:_A_Gift_of_Compatibility) - [COMMISSIONS REQUIRED]
 - [ ] [Giving Flowers](https://genshin-impact.fandom.com/wiki/Giving_Flowers)
 - [ ] [Heart of Amrita](https://genshin-impact.fandom.com/wiki/Heart_of_Amrita)
 - [ ] [Join the Eremites and Embrace a Wonderful New Life!](https://genshin-impact.fandom.com/wiki/Join_the_Eremites_and_Embrace_a_Wonderful_New_Life!)
@@ -914,25 +952,94 @@
     - [ ] [Ann's Story](https://genshin-impact.fandom.com/wiki/Ann's_Story)
   - [ ] Act III: ["If She No Longer Dreams of You..."](https://genshin-impact.fandom.com/wiki/"If_She_No_Longer_Dreams_of_You...")
     - [ ] [Mary-Ann's Story](https://genshin-impact.fandom.com/wiki/Mary-Ann's_Story)
+- [ ] [Fontaine Research Institute Chronicles](https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute_Chronicles)
+  - [ ] [Fontaine Research Institute, Stagnating in the Rubble](https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute,_Stagnating_in_the_Rubble)
+    - [ ] [Go to the Institute Dormitories and retrieve the Anchor](https://genshin-impact.fandom.com/wiki/Go_to_the_Institute_Dormitories_and_retrieve_the_Anchor)
+    - [ ] [Go to the Institute of Clockwork Applications and retrieve the Anchor](https://genshin-impact.fandom.com/wiki/Go_to_the_Institute_of_Clockwork_Applications_and_retrieve_the_Anchor)
+
+- [ ] [In the Wake of Narcissus](https://genshin-impact.fandom.com/wiki/In_the_Wake_of_Narcissus)
+  - [ ] Act I: [Search in the Algae Sea](https://genshin-impact.fandom.com/wiki/Search_in_the_Algae_Sea)
+    - [ ] [Search in the Algae Sea](https://genshin-impact.fandom.com/wiki/Search_in_the_Algae_Sea_(Quest))
+      - [ ] [Muse's Mother](https://genshin-impact.fandom.com/wiki/Muse's_Mother)
+      - [ ] [Meteoric Lance](https://genshin-impact.fandom.com/wiki/Meteoric_Lance)
+      - [ ] [Cupid's Lover](https://genshin-impact.fandom.com/wiki/Cupid's_Lover)
+      - [ ] [Thalia and Melpomene](https://genshin-impact.fandom.com/wiki/Thalia_and_Melpomene)
+
+  - [ ] Act II: [Savior's Wake](https://genshin-impact.fandom.com/wiki/Savior's_Wake)
+    - [ ] [Savior's Wake](https://genshin-impact.fandom.com/wiki/Savior's_Wake_(Quest))
+
+  - [ ] Act III: [Waking from the Great Dream](https://genshin-impact.fandom.com/wiki/Waking_from_the_Great_Dream)
+    - [ ] [Waking from the Great Dream](https://genshin-impact.fandom.com/wiki/Waking_from_the_Great_Dream_(Quest))
+
+  - [ ] Act IV: [Rowboat's Wake](https://genshin-impact.fandom.com/wiki/Rowboat's_Wake)
+    - [ ] [Rowboat's Wake](https://genshin-impact.fandom.com/wiki/Rowboat's_Wake_(Quest))
+
+- [ ] [Questioning Melusine and Answering Machine](https://genshin-impact.fandom.com/wiki/Questioning_Melusine_and_Answering_Machine)
+  - [ ] Act I: [Vagrants and Scamps](https://genshin-impact.fandom.com/wiki/Vagrants_and_Scamps)
+  - [ ] Act II: [The Red and the Black](https://genshin-impact.fandom.com/wiki/The_Red_and_the_Black)
+  - [ ] Act III: [Questions and Answers](https://genshin-impact.fandom.com/wiki/Questions_and_Answers)
+
+- [ ] [Scenes from Life in Meropide](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide)
+  - [ ] [Scenes from Life in Meropide: A Raw Deal](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_A_Raw_Deal)
+  - [ ] [Scenes from Life in Meropide: Chit-Chat](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Chit-Chat)
+  - [ ] [Scenes from Life in Meropide: Dead End](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Dead_End)
+  - [ ] [Scenes from Life in Meropide: Fists of Fury](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Fists_of_Fury)
+  - [ ] [Scenes from Life in Meropide: Safe Operation](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Safe_Operation)
+  - [ ] [Scenes from Life in Meropide: Treat the Symptoms](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Treat_the_Symptoms)
+  - [ ] [Scenes from Life in Meropide: Unfinished Task](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Unfinished_Task)
+  - [ ] [Scenes from Life in Meropide: Every Debt has a Creditor](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Every_Debt_has_a_Creditor)
+  - [ ] [Scenes from Life in Meropide: The Art of Negotiation](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_The_Art_of_Negotiation)
+  - [ ] [Scenes from Life in Meropide: Visible Hands](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Visible_Hands)
+  - [ ] [Scenes from Life in Meropide: An Actor's Training](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_An_Actor's_Training)
+  - [ ] [Scenes from Life in Meropide: Memories](https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Memories)
+
+- [ ] [The Wild Fairy of Erinnyes](https://genshin-impact.fandom.com/wiki/The_Wild_Fairy_of_Erinnyes)
+  - [ ] [Foggy Forest Path](https://genshin-impact.fandom.com/wiki/Foggy_Forest_Path_(Quest))
+  - [ ] [Wilting Weeping Willow](https://genshin-impact.fandom.com/wiki/Wilting_Weeping_Willow)
+  - [ ] [Furious Mouth of the Spring](https://genshin-impact.fandom.com/wiki/Furious_Mouth_of_the_Spring)
+  - [ ] [Within the Depths of Erinnyes](https://genshin-impact.fandom.com/wiki/Within_the_Depths_of_Erinnyes)
+
+- [ ] [Unfinished Comedy](https://genshin-impact.fandom.com/wiki/Unfinished_Comedy)
+  - [ ] [An Eye for an Eye](https://genshin-impact.fandom.com/wiki/An_Eye_for_an_Eye)
+  - [ ] [Game of the Rich](https://genshin-impact.fandom.com/wiki/Game_of_the_Rich)
+  - [ ] [Hereafter...](https://genshin-impact.fandom.com/wiki/Hereafter...)
+
 - [ ] ["Hey, This Isn't Pumpkin Soup..."](https://genshin-impact.fandom.com/wiki/"Hey,_This_Isn't_Pumpkin_Soup...")
 - [ ] [A Certain Notice](https://genshin-impact.fandom.com/wiki/A_Certain_Notice)
 - [ ] [A Certain Stamp](https://genshin-impact.fandom.com/wiki/A_Certain_Stamp)
 - [ ] [A Certain Trifle](https://genshin-impact.fandom.com/wiki/A_Certain_Trifle)
 - [ ] [A Fontainian Message](https://genshin-impact.fandom.com/wiki/A_Fontainian_Message)
+- [ ] [A Letter](https://genshin-impact.fandom.com/wiki/A_Letter)
+- [ ] [An Expected Lie](https://genshin-impact.fandom.com/wiki/An_Expected_Lie)
+- [ ] [An Expected Plan](https://genshin-impact.fandom.com/wiki/An_Expected_Plan)
 - [ ] [Another Horizon of Adventure](https://genshin-impact.fandom.com/wiki/Another_Horizon_of_Adventure)
 - [ ] [Aqueous Tidemarks](https://genshin-impact.fandom.com/wiki/Aqueous_Tidemarks)
 - [ ] [Book of Esoteric Revelations](https://genshin-impact.fandom.com/wiki/Book_of_Esoteric_Revelations)
+- [ ] [Both Brains and Brawn](https://genshin-impact.fandom.com/wiki/Both_Brains_and_Brawn)
 - [ ] [Danger Lurks Everywhere in Fontaine](https://genshin-impact.fandom.com/wiki/Danger_Lurks_Everywhere_in_Fontaine)
 - [ ] [Echoes of the Ancient World](https://genshin-impact.fandom.com/wiki/Echoes_of_the_Ancient_World)
 - [ ] [Fishing Game](https://genshin-impact.fandom.com/wiki/Fishing_Game)
+- [ ] [Free Verse](https://genshin-impact.fandom.com/wiki/Free_Verse)
 - [ ] [Good Stuff, but Terrible Taste (Belleau Region)](https://genshin-impact.fandom.com/wiki/Good_Stuff,_but_Terrible_Taste_(Belleau_Region))
 - [ ] [Good Stuff, but Terrible Taste (Central Beryl Region)](https://genshin-impact.fandom.com/wiki/Good_Stuff,_but_Terrible_Taste_(Central_Beryl_Region))
 - [ ] [Good Stuff, but Terrible Taste (Court of Fontaine Region)](https://genshin-impact.fandom.com/wiki/Good_Stuff,_but_Terrible_Taste_(Court_of_Fontaine_Region))
 - [ ] [Good Stuff, but Terrible Taste (Southeast Beryl Region)](https://genshin-impact.fandom.com/wiki/Good_Stuff,_but_Terrible_Taste_(Southeast_Beryl_Region))
 - [ ] [Good Stuff, but Terrible Taste (West Beryl Region)](https://genshin-impact.fandom.com/wiki/Good_Stuff,_but_Terrible_Taste_(West_Beryl_Region))
 - [ ] [Good Stuff, but Terrible Taste - Continued](https://genshin-impact.fandom.com/wiki/Good_Stuff,_but_Terrible_Taste_-_Continued)
+- [ ] [Happy Birthday](https://genshin-impact.fandom.com/wiki/Happy_Birthday)
+- [ ] [Impromptu Poem of the Crimson Dawn](https://genshin-impact.fandom.com/wiki/Impromptu_Poem_of_the_Crimson_Dawn)
 - [ ] [In Expert Company? (I)](https://genshin-impact.fandom.com/wiki/In_Expert_Company%3F_(I))
 - [ ] [In Expert Company? (II)](https://genshin-impact.fandom.com/wiki/In_Expert_Company%3F_(II))
+- [ ] [In Search of Lost Time](https://genshin-impact.fandom.com/wiki/In_Search_of_Lost_Time)
+- [ ] [In Search of Lost Time: North](https://genshin-impact.fandom.com/wiki/In_Search_of_Lost_Time:_North)
+- [ ] [In Search of Lost Time: South](https://genshin-impact.fandom.com/wiki/In_Search_of_Lost_Time:_South)
+- [ ] [In Search of Lost Time: West](https://genshin-impact.fandom.com/wiki/In_Search_of_Lost_Time:_West)
+- [ ] [Initial Facts](https://genshin-impact.fandom.com/wiki/Initial_Facts)
+- [ ] [Our Purpose Is in Another Canal](https://genshin-impact.fandom.com/wiki/Our_Purpose_Is_in_Another_Canal)
+- [ ] [Pursuit (Part 1)](https://genshin-impact.fandom.com/wiki/Pursuit_(Part_1))
+- [ ] [Pursuit (Part 2)](https://genshin-impact.fandom.com/wiki/Pursuit_(Part_2))
+- [ ] [Riddles Awaiting Answers](https://genshin-impact.fandom.com/wiki/Riddles_Awaiting_Answers)
+- [ ] [Road to the Singularity](https://genshin-impact.fandom.com/wiki/Road_to_the_Singularity)
 - [ ] [Semi-Automatic Forging](https://genshin-impact.fandom.com/wiki/Semi-Automatic_Forging)
 - [ ] [Steambird Interview](https://genshin-impact.fandom.com/wiki/Steambird_Interview)
 - [ ] [Still Mouthwatering!](https://genshin-impact.fandom.com/wiki/Still_Mouthwatering!)
@@ -942,11 +1049,16 @@
 - [ ] [The Final Question](https://genshin-impact.fandom.com/wiki/The_Final_Question)
 - [ ] [The Fountain Flows Again](https://genshin-impact.fandom.com/wiki/The_Fountain_Flows_Again)
 - [ ] [The Lone Phantom Sail](https://genshin-impact.fandom.com/wiki/The_Lone_Phantom_Sail)
+- [ ] [The Long-Failed "Graph Adversarial Technology"...](https://genshin-impact.fandom.com/wiki/The_Long-Failed_"Graph_Adversarial_Technology"...)
 - [ ] [The Three Primary Colors of the Solar Corona](https://genshin-impact.fandom.com/wiki/The_Three_Primary_Colors_of_the_Solar_Corona)
+- [ ] [Through the Looking Glass](https://genshin-impact.fandom.com/wiki/Through_the_Looking_Glass)
+- [ ] [Treacherous Light of the Depths](https://genshin-impact.fandom.com/wiki/Treacherous_Light_of_the_Depths)
 - [ ] [Truly Mouthwatering!](https://genshin-impact.fandom.com/wiki/Truly_Mouthwatering!)
 - [ ] [Unfinished Story](https://genshin-impact.fandom.com/wiki/Unfinished_Story)
 - [ ] [Upon a Flowery Field of Grass](https://genshin-impact.fandom.com/wiki/Upon_a_Flowery_Field_of_Grass)
+- [ ] [Villains](https://genshin-impact.fandom.com/wiki/Villains)
 - [ ] [Were It So Easy](https://genshin-impact.fandom.com/wiki/Were_It_So_Easy)
+- [ ] [Wish-Fulfilling Treasure Hunt](https://genshin-impact.fandom.com/wiki/Wish-Fulfilling_Treasure_Hunt)
 
 ------
 
@@ -1108,10 +1220,16 @@
 
 #### Quest-Like
 
+- [ ] [Anchors Aweigh](https://genshin-impact.fandom.com/wiki/Anchors_Aweigh)
+- [ ] [Arkhium Forge](https://genshin-impact.fandom.com/wiki/Arkhium_Forge)
 - [ ] [Delaroche's Bait](https://genshin-impact.fandom.com/wiki/Delaroche's_Bait)
+- [ ] [Exchange! Pahsiv!](https://genshin-impact.fandom.com/wiki/Exchange!_Pahsiv!)
 - [ ] [Poissonous Cuisine](https://genshin-impact.fandom.com/wiki/Poissonous_Cuisine)
 - [ ] [Room Temperature, Please](https://genshin-impact.fandom.com/wiki/Room_Temperature,_Please)
+- [ ] [Rusty Rudder Q&A](https://genshin-impact.fandom.com/wiki/Rusty_Rudder_Q%26A)
 - [ ] [The Blubberbeast's Affection](https://genshin-impact.fandom.com/wiki/The_Blubberbeast's_Affection)
 
+#### Unordered
 
-
+- [ ] [Fireworks Atop a Meka](https://genshin-impact.fandom.com/wiki/Fireworks_Atop_a_Meka)
+- [ ] [Pankration One-on-One](https://genshin-impact.fandom.com/wiki/Pankration_One-on-One)
