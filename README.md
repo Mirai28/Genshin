@@ -1049,7 +1049,7 @@
 - [ ] [The Final Question](https://genshin-impact.fandom.com/wiki/The_Final_Question)
 - [ ] [The Fountain Flows Again](https://genshin-impact.fandom.com/wiki/The_Fountain_Flows_Again)
 - [ ] [The Lone Phantom Sail](https://genshin-impact.fandom.com/wiki/The_Lone_Phantom_Sail)
-- [ ] [The Long-Failed "Graph Adversarial Technology"...](https://genshin-impact.fandom.com/wiki/The_Long-Failed_"Graph_Adversarial_Technology"...)
+- [x] [The Long-Failed "Graph Adversarial Technology"...](https://genshin-impact.fandom.com/wiki/The_Long-Failed_"Graph_Adversarial_Technology"...)
 - [ ] [The Three Primary Colors of the Solar Corona](https://genshin-impact.fandom.com/wiki/The_Three_Primary_Colors_of_the_Solar_Corona)
 - [ ] [Through the Looking Glass](https://genshin-impact.fandom.com/wiki/Through_the_Looking_Glass)
 - [ ] [Treacherous Light of the Depths](https://genshin-impact.fandom.com/wiki/Treacherous_Light_of_the_Depths)
